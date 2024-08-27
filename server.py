@@ -5,7 +5,7 @@ import os
 import logging
 
 logging.basicConfig(level=logging.INFO)
-logging.error('Don't like this error')
+logging.error('Dont like this error')
 logging.warning('Watch out!')
 logging.info('I told you so') 
     
